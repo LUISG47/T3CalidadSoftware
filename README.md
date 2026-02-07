@@ -12,7 +12,7 @@ Este repositorio contiene la solución a tres problemas de programación desarro
 * Identificar estándares industriales (PEP-8) y el uso de herramientas de análisis estático (PyLint).
 
 ## 📂 Contenido del Repositorio
-1. **`computeStatistics.py`**: Calcula media, mediana, moda, varianza y desviación estándar a partir de un archivo de datos.
+1. **`computeStatistics.py`**: Calcula media, mediana, moda, varianza y desviación estándar a partir de un archivo de datos, los archivos de programación 
 2. **`convertNumbers.py`**: Convierte una lista de números enteros a sus equivalentes en sistemas Binario y Hexadecimal.
 3. **`wordCount.py`**: Identifica palabras distintas y contabiliza su frecuencia de aparición en un texto.
 
