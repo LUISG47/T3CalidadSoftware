@@ -25,9 +25,11 @@ Este repositorio contiene la solución a tres problemas de programación desarro
 
 ## 🚀 Instrucciones de Ejecución
 
-Para ejecutar cualquiera de los programas, utiliza la terminal y pasa como argumento el nombre del archivo que contiene los datos:
+Para ejecutar cualquiera de los programas, utiliza la terminal y pasa como argumento el nombre del archivo que contiene los datos en cada caso
+
+Por ejemplo para cada uno de los programas este sería el argumento:
 
 ```bash
-python computeStatistics.py data_statistics.txt
-python convertNumbers.py data_numbers.txt
-python wordCount.py data_words.txt
+python computeStatistics.py TC1.txt
+python convertNumbers.py TC2.txt
+python wordCount.py TC3.txt
